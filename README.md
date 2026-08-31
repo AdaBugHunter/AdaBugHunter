@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./coding-banner.gif" width="100%" alt="Areeba coding in a frontend editor" />
+<img src="./coding-banner(2).gif" width="100%" alt="Areeba coding in a frontend editor" />
 
 <br/>
 
