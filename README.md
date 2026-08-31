@@ -4,16 +4,25 @@
 
 <br/>
 
-Hi 👋, I'm Areeba
+<h3>Hi 👋, I'm Areeba</h3>
 
-Junior Frontend Developer ✨
-
-Building clean, responsive & modern web interfaces.
+<strong>Frontend Developer ✨</strong>
+<br/>
+<i>Building clean, responsive & modern web interfaces.</i>
 
 <br/>
 
-💻 Tech Stack
+<hr>
+
+<h3>💻 Tech Stack</h3>
+<br/>
 
 <img src="./tech-stack.svg" width="100%" alt="HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Git and GitHub" />
+
+<br/>
+
+<sub>Minimal • focused • no project cards • no GitHub stats</sub>
+
+<br/>
 
 </div>
