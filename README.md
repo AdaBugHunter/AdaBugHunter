@@ -19,9 +19,9 @@
 
 <img src="./tech-stack.svg" width="100%" alt="HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Git and GitHub" />
 
-<br/>
+<br/><br/>
 
-<sub>Minimal • focused • no project cards • no GitHub stats</sub>
+<sub><code>const journey = () => { learn(); build(); refine(); repeat(); }</code></sub>
 
 <br/>
 
