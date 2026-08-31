@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="150" viewBox="0 0 980 150">
+<rect width="980" height="150" fill="transparent"/>
+<style>
+  .label { font: 600 13px Inter, Arial, sans-serif; fill: #f0f6fc; }
+  .abbr { font: 700 15px Inter, Arial, sans-serif; }
+  .card { fill:#161b22; stroke:#30363d; stroke-width:2; }
+</style>
+
+<!-- cards -->
+<g transform="translate(0,10)">
+  <rect class="card" x="0" y="0" width="105" height="125" rx="18"/>
+  <circle cx="52.5" cy="40" r="21" fill="#E34F26"/>
+  <text x="52.5" y="45" text-anchor="middle" class="abbr" fill="#fff">H</text>
+  <text x="52.5" y="92" text-anchor="middle" class="label">HTML</text>
+</g>
+
+<g transform="translate(125,10)">
+  <rect class="card" x="0" y="0" width="105" height="125" rx="18"/>
+  <circle cx="52.5" cy="40" r="21" fill="#1572B6"/>
+  <text x="52.5" y="45" text-anchor="middle" class="abbr" fill="#fff">C</text>
+  <text x="52.5" y="92" text-anchor="middle" class="label">CSS</text>
+</g>
+
+<g transform="translate(250,10)">
+  <rect class="card" x="0" y="0" width="105" height="125" rx="18"/>
+  <circle cx="52.5" cy="40" r="21" fill="#F7DF1E"/>
+  <text x="52.5" y="45" text-anchor="middle" class="abbr" fill="#111">JS</text>
+  <text x="52.5" y="92" text-anchor="middle" class="label">JS</text>
+</g>
+
+<g transform="translate(375,10)">
+  <rect class="card" x="0" y="0" width="105" height="125" rx="18"/>
+  <circle cx="52.5" cy="40" r="21" fill="#61DAFB"/>
+  <text x="52.5" y="45" text-anchor="middle" class="abbr" fill="#111">R</text>
+  <text x="52.5" y="92" text-anchor="middle" class="label">React</text>
+</g>
+
+<g transform="translate(500,10)">
+  <rect class="card" x="0" y="0" width="105" height="125" rx="18"/>
+  <circle cx="52.5" cy="40" r="21" fill="#fff"/>
+  <text x="52.5" y="45" text-anchor="middle" class="abbr" fill="#111">N</text>
+  <text x="52.5" y="92" text-anchor="middle" class="label">Next.js</text>
+</g>
+
+<g transform="translate(625,10)">
+  <rect class="card" x="0" y="0" width="105" height="125" rx="18"/>
+  <circle cx="52.5" cy="40" r="21" fill="#38BDF8"/>
+  <text x="52.5" y="45" text-anchor="middle" class="abbr" fill="#111">T</text>
+  <text x="52.5" y="92" text-anchor="middle" class="label">Tailwind</text>
+</g>
+
+<g transform="translate(750,10)">
+  <rect class="card" x="0" y="0" width="105" height="125" rx="18"/>
+  <circle cx="52.5" cy="40" r="21" fill="#F05032"/>
+  <text x="52.5" y="45" text-anchor="middle" class="abbr" fill="#111">G</text>
+  <text x="52.5" y="92" text-anchor="middle" class="label">Git</text>
+</g>
+
+<g transform="translate(875,10)">
+  <rect class="card" x="0" y="0" width="105" height="125" rx="18"/>
+  <circle cx="52.5" cy="40" r="21" fill="#c9d1d9"/>
+  <text x="52.5" y="45" text-anchor="middle" class="abbr" fill="#111">G</text>
+  <text x="52.5" y="92" text-anchor="middle" class="label">GitHub</text>
+</g>
+</svg>
